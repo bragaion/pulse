@@ -42,4 +42,17 @@
             }
         }
     }
+    .consultation {
+        .title {
+            text-align: center;
+            font-size: 27px;
+        }
+        &__descr {
+            text-align: center;
+            font-size: 16px;
+        }
+        .feed-form {
+            margin: 30px auto ;
+        }
+    }
 }
